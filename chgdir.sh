@@ -1,4 +1,4 @@
-#!/bin/bash
+ #!/bin/bash
 
 #### script that changes your home directory to local /home on hdd ####
 #### created by Matthew Feng
